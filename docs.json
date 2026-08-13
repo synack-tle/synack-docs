@@ -22,7 +22,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Client API Reference",
         "groups": [
           {
             "group": "Asset Management v2 API",
@@ -55,6 +55,15 @@
           {
             "group": "Query API v1",
             "openapi": "streaming-openapi.yaml"
+          }
+        ]
+      },
+      {
+        "tab": "Researcher API Reference",
+        "groups": [
+          {
+            "group": "Platform v1 API",
+            "openapi": "researcher-v1-openapi.yaml"
           }
         ]
       }
